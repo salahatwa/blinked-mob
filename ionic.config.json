@@ -1,0 +1,7 @@
+{
+  "name": "blinked",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
